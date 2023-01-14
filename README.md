@@ -1,2 +1,2 @@
 # rockpaperscissorsJS
-The purpose of this project is to practice javascript 
+The purpose of this project is to practice javascript
